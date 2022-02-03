@@ -25,3 +25,8 @@ docker run -d^
   --volume ./beat/metricbeat.yml::/usr/share/metricbeat/metricbeat.yml
   --volume %cd%/:/opt -w /opt michaelbrooks/node npm i vuepress
   --volume /beat/:/etc/^
+
+
+
+  --REPOSITORIO COMPLETO CON ELK
+  https://github.com/deviantony/docker-elk
