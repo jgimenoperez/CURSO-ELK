@@ -15,7 +15,7 @@ Una o varias maquinas con kibana
 docker run -d^
   --name=metricbeat^
   --user=root^
-  --volume "C:\DEVLAB\CURSOS_UDEMY\CUROS-ELK\beat\metricbeat.yml:/usr/share/metricbeat/metricbeat.yml:ro"^
+  --volume="C:\DEVLAB\CURSOS_UDEMY\CUROS-ELK\beatmetricbeat.docker.yml:/usr/share/metricbeat/metricbeat.yml:ro"^
   docker.elastic.co/beats/metricbeat:7.17.0 metricbeat -e^
   -E output.elasticsearch.hosts=["9200"]
 

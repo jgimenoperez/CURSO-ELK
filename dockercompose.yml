@@ -6,11 +6,10 @@ services:
 
 
   metricbeat:
-    image: docker.elastic.co/beats/metricbeat:7.11.1
+    image: docker.elastic.co/beats/metricbeat:7.17.0
     environment:
-      ELASTICSEARCH_HOSTS: http://node01:9200
-    volumes:
-      - ./beat:/usr/share/metricbeat/metricbeat.yml:ro
+      ELASTICSEARCH_HOSTS: localhost:9200
+
     networks:
       - es-network
 
