@@ -22,10 +22,6 @@ services:
         target: /usr/share/filebeat/filebeat.yml
         read_only: true
       - type: bind
-        source: ./extensions/logs
-        target: /usr/share/logs
-        read_only: true        
-      - type: bind
         source: /var/lib/docker/containers
         target: /var/lib/docker/containers
         read_only: true
