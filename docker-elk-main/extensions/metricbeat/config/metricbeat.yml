@@ -8,6 +8,13 @@ metricbeat.config:
     # Reload module configs as they change:
     reload.enabled: false
 
+setup.dashboards.enabled: true
+setup.kibana:
+    host: "kibana:5601"
+xpack.monitoring.enabled: true    
+
+
+
 metricbeat.autodiscover:
   providers:
     - type: docker
@@ -21,12 +28,60 @@ metricbeat.modules:
     - diskio
     - healthcheck
     - info
-    #- image
+    - image
     - memory
     - network
   hosts: ['unix:///var/run/docker.sock']
   period: 10s
   enabled: true
+
+- module: system
+  period: 10s
+  metricsets:
+    - cpu
+    - load
+    - memory
+    - network
+    - process
+    - process_summary
+    - socket_summary
+    #- entropy
+    #- core
+    #- diskio
+    #- socket
+    #- service
+    #- users
+  process.include_top_n:
+    by_cpu: 5      # include top 5 processes by CPU
+    by_memory: 5   # include top 5 processes by memory
+# Configure the mount point of the host’s filesystem for use in monitoring a host from within a container
+#system.hostfs: "/hostfs"
+
+- module: system
+  period: 10s
+  metricsets:
+    - filesystem
+    - fsstat
+    - cpu
+    - memory
+    - network
+    - process
+  processors:
+  - drop_event.when.regexp:
+      system.filesystem.mount_point: '^/(sys|cgroup|proc|dev|etc|host|lib|snap)($|/)'
+
+- module: system
+  period: 15m
+  metricsets:
+    - uptime
+
+#- module: system
+#  period: 5m
+#  metricsets:
+#    - raid
+#  raid.mount_point: '/'
+
+
 
 processors:
   - add_cloud_metadata: ~
