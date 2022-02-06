@@ -1,5 +1,5 @@
 DEBUG 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.542|LOGIN|FAILURE|Bacterio
+INFO 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.542|LOGIN|FAILURE|c
 DEBUG 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
 INFO 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.781|DOWNLOAD DOCUMENT|SUCCESS|Bacterio
 DEBUG 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
