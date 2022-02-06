@@ -1,6 +1,6 @@
-DEBUG 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.542|LOGIN|FAILURE|Bacterio
-DEBUG 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.781|DOWNLOAD DOCUMENT|SUCCESS|Bacterio
-DEBUG 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 18:41:35 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Superman|22.22.24.33
+DEBUG 2022-02-06 19:01:26 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-06 19:01:26 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.318|EXPORT DATA|FAILURE|Zipi
+DEBUG 2022-02-06 19:01:26 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-06 19:01:26 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.002|SEND EMAIL|SUCCESS|Sacarino
+DEBUG 2022-02-06 19:01:26 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-06 19:01:26 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|IronMan|19.154.122.18
