@@ -1,34 +1,34 @@
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.21|LOGIN|FAILURE|Mortadelo
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.796|CREATE USER|SUCCESS|Conan
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Carpanta|89.7.198.69
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.585|SEND EMAIL|SUCCESS|Batman
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.327|DOWNLOAD DOCUMENT|FAILURE|Mortadelo
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Pantuflo|40.228.199.241
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.433|LOGIN|SUCCESS|Robin
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.012|DOWNLOAD DOCUMENT|FAILURE|Carpanta
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.505|CREATE USER|FAILURE|Carpanta
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Carpanta|186.77.216.149
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.879|CREATE USER|FAILURE|Mortadelo
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.215|SEND EMAIL|SUCCESS|Mortadelo
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|IronMan|222.255.241.118
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.014|DOWNLOAD DOCUMENT|FAILURE|Flash
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
-ERROR 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Form can not be validated due to some database issue|
-java.lang.Exception: Form can not be validated due to some database issue
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.857|DELETE USER|FAILURE|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.238|SEND EMAIL|FAILURE|Zape
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|Pantuflo|120.153.126.152
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.688|DELETE USER|FAILURE|Zipi
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.635|SEND EMAIL|FAILURE|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Pantuflo|37.141.102.6
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.603|DOWNLOAD DOCUMENT|FAILURE|Conan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.461|SEND EMAIL|FAILURE|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.193|SEND EMAIL|SUCCESS|IronFish
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|Superman|118.168.65.92
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.16|DELETE USER|SUCCESS|Robin
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.804|SEND EMAIL|FAILURE|SuperLopez
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|Batman|190.147.121.106
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.181|EXPORT DATA|SUCCESS|Carpanta
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Error creating user|
+java.lang.Exception: Error creating user
 	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
 	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
 	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
@@ -36,36 +36,36 @@ java.lang.Exception: Form can not be validated due to some database issue
 	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
 	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
 	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.448|LOGIN|SUCCESS|IronFish
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.086|LOGIN|SUCCESS|Thor
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|IronFish|58.174.189.7
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.598|DOWNLOAD DOCUMENT|SUCCESS|Conan
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.49|EXPORT DATA|SUCCESS|IronFish
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|100|Zape|132.18.245.68
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.083|SEND EMAIL|FAILURE|IronMan
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.193|CREATE USER|SUCCESS|IronMan
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.793|DOWNLOAD DOCUMENT|SUCCESS|Thor
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|Mortadelo|1.130.136.242
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.638|SEND EMAIL|FAILURE|Mortadelo
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.327|EXPORT DATA|FAILURE|Pantuflo
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Zipi|151.5.196.64
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.844|SEND EMAIL|SUCCESS|Flash
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
-ERROR 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Invalid credentials. User will be flag as inactive|
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.902|DOWNLOAD DOCUMENT|SUCCESS|SuperLopez
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.259|SEND EMAIL|FAILURE|Zipi
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|100|Robin|87.155.36.166
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.484|DOWNLOAD DOCUMENT|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.828|DOWNLOAD DOCUMENT|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|IronFish|131.126.90.222
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.16|DOWNLOAD DOCUMENT|FAILURE|Carpanta
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.307|SEND EMAIL|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.412|DOWNLOAD DOCUMENT|FAILURE|Carpanta
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Carpanta|55.165.243.46
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.991|LOGIN|FAILURE|SuperLopez
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.208|DELETE USER|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|100|Mortadelo|250.222.58.11
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.388|LOGIN|FAILURE|Pantuflo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Invalid credentials. User will be flag as inactive|
 java.lang.Exception: Invalid credentials. User will be flag as inactive
 	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
 	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
@@ -74,23 +74,877 @@ java.lang.Exception: Invalid credentials. User will be flag as inactive
 	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
 	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
 	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.425|SEND EMAIL|FAILURE|Zipi
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.278|EXPORT DATA|SUCCESS|Zape
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Pantuflo|252.113.8.127
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.567|SEND EMAIL|SUCCESS|Bacterio
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.659|CREATE USER|FAILURE|Mortadelo
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Zipi|32.14.176.73
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.055|DOWNLOAD DOCUMENT|SUCCESS|Flash
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.484|SEND EMAIL|FAILURE|Sacarino
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.614|LOGIN|FAILURE|Bacterio
-DEBUG 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
-INFO 2022-02-06 21:21:37 [main] a.b.t.loggenerator.LogGenerator - LOGIN|100|IronFish|244.16.180.240
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.29|CREATE USER|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.665|CREATE USER|SUCCESS|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|SuperLopez|75.53.65.54
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.599|DELETE USER|FAILURE|Pantuflo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.531|CREATE USER|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Rompetechos|107.205.180.201
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.233|SEND EMAIL|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.625|SEND EMAIL|FAILURE|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.037|DELETE USER|FAILURE|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|500|Batman|168.94.135.8
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.884|DOWNLOAD DOCUMENT|SUCCESS|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.44|CREATE USER|FAILURE|Flash
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Robin|114.59.29.34
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.154|DOWNLOAD DOCUMENT|SUCCESS|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - User not found|
+java.lang.Exception: User not found
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.1|SEND EMAIL|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.794|DELETE USER|FAILURE|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|Batman|4.168.169.64
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.355|DOWNLOAD DOCUMENT|FAILURE|Conan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.829|LOGIN|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Mortadelo|116.129.104.0
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.975|SEND EMAIL|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.224|LOGIN|FAILURE|Robin
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.635|DELETE USER|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Robin|44.46.195.187
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.928|CREATE USER|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.957|DOWNLOAD DOCUMENT|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Filemon|249.88.188.60
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.086|DOWNLOAD DOCUMENT|SUCCESS|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Document not found|
+java.lang.Exception: Document not found
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.436|CREATE USER|FAILURE|Robin
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.499|LOGIN|FAILURE|IronFish
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Thor|118.93.237.96
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.353|DOWNLOAD DOCUMENT|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.285|DELETE USER|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Conan|216.148.140.2
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.213|EXPORT DATA|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.9|EXPORT DATA|FAILURE|SuperLopez
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.705|LOGIN|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Zape|104.224.34.57
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.844|LOGIN|FAILURE|Flash
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.814|CREATE USER|SUCCESS|Zipi
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Mortadelo|220.188.140.195
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.058|CREATE USER|FAILURE|Robin
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Error creating user|
+java.lang.Exception: Error creating user
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.028|DELETE USER|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.109|SEND EMAIL|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Zipi|109.175.117.4
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.291|DOWNLOAD DOCUMENT|SUCCESS|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.271|EXPORT DATA|FAILURE|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Batman|142.22.121.246
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.37|DOWNLOAD DOCUMENT|SUCCESS|Rompetechos
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.034|CREATE USER|FAILURE|Thor
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.226|LOGIN|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Robin|33.67.40.18
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.781|SEND EMAIL|FAILURE|Zape
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.538|DOWNLOAD DOCUMENT|SUCCESS|Zipi
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Rompetechos|167.103.5.255
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.118|DOWNLOAD DOCUMENT|FAILURE|Zape
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Email error: can not connect to SMTP Server|
+java.lang.Exception: Email error: can not connect to SMTP Server
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.209|SEND EMAIL|FAILURE|Zipi
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.699|CREATE USER|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Zape|139.29.18.118
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.38|LOGIN|FAILURE|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.344|DELETE USER|FAILURE|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Batman|109.219.190.212
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.992|CREATE USER|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.498|EXPORT DATA|FAILURE|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.479|SEND EMAIL|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|Flash|242.55.132.24
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.834|DOWNLOAD DOCUMENT|SUCCESS|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.207|DOWNLOAD DOCUMENT|SUCCESS|Thor
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|500|Zipi|118.106.230.239
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.394|DELETE USER|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Error creating user|
+java.lang.Exception: Error creating user
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.449|LOGIN|SUCCESS|Carpanta
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.493|EXPORT DATA|SUCCESS|Carpanta
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|Thor|104.14.126.35
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.357|DELETE USER|SUCCESS|Conan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.001|LOGIN|FAILURE|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Thor|121.84.191.152
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.504|SEND EMAIL|SUCCESS|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.346|SEND EMAIL|FAILURE|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.037|DOWNLOAD DOCUMENT|FAILURE|IronFish
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|Pantuflo|92.73.171.81
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.784|DOWNLOAD DOCUMENT|SUCCESS|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.882|LOGIN|SUCCESS|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|Zipi|56.202.60.161
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.123|DELETE USER|FAILURE|SuperLopez
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Current user is not able to perform this action|
+java.lang.Exception: Current user is not able to perform this action
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.206|EXPORT DATA|FAILURE|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.376|CREATE USER|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Superman|74.239.142.93
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.266|EXPORT DATA|SUCCESS|Thor
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.278|CREATE USER|FAILURE|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Mortadelo|71.142.81.219
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.807|DOWNLOAD DOCUMENT|FAILURE|Conan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.982|SEND EMAIL|FAILURE|Flash
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.035|CREATE USER|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Filemon|3.48.187.228
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.401|SEND EMAIL|FAILURE|Rompetechos
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.722|DOWNLOAD DOCUMENT|FAILURE|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Sacarino|220.12.157.102
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.092|DOWNLOAD DOCUMENT|SUCCESS|Flash
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Email error: can not connect to SMTP Server|
+java.lang.Exception: Email error: can not connect to SMTP Server
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.367|SEND EMAIL|SUCCESS|Conan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.095|CREATE USER|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Conan|220.163.146.242
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.733|DOWNLOAD DOCUMENT|SUCCESS|IronFish
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.166|EXPORT DATA|FAILURE|Thor
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Robin|59.121.245.194
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.618|DOWNLOAD DOCUMENT|FAILURE|Carpanta
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.965|EXPORT DATA|FAILURE|Flash
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.023|SEND EMAIL|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Sacarino|110.36.50.186
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.382|DOWNLOAD DOCUMENT|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.591|CREATE USER|SUCCESS|Zipi
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Filemon|97.244.117.165
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.21|LOGIN|FAILURE|Zape
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - User can not be null. Can not fetch information from the database|
+java.lang.Exception: User can not be null. Can not fetch information from the database
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.526|DELETE USER|SUCCESS|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.792|EXPORT DATA|FAILURE|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Filemon|205.36.213.28
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.976|CREATE USER|FAILURE|Flash
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.181|LOGIN|SUCCESS|Rompetechos
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Thor|26.245.215.17
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.651|CREATE USER|SUCCESS|SuperLopez
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.336|EXPORT DATA|SUCCESS|SuperLopez
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.75|SEND EMAIL|SUCCESS|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|IronFish|52.66.122.237
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.418|DELETE USER|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.245|DELETE USER|FAILURE|Zape
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|Batman|166.32.223.213
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.093|DOWNLOAD DOCUMENT|FAILURE|Thor
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Error creating user|
+java.lang.Exception: Error creating user
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.168|DOWNLOAD DOCUMENT|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.675|CREATE USER|SUCCESS|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Rompetechos|199.102.90.148
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.579|LOGIN|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.861|DOWNLOAD DOCUMENT|FAILURE|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Mortadelo|36.31.30.220
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.176|DOWNLOAD DOCUMENT|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.587|DELETE USER|SUCCESS|Carpanta
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.636|CREATE USER|SUCCESS|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|IronFish|161.181.59.56
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.139|SEND EMAIL|SUCCESS|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.458|LOGIN|SUCCESS|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Batman|67.98.21.9
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.564|LOGIN|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Lazy Loading is not allowed in this context|
+java.lang.Exception: Lazy Loading is not allowed in this context
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.585|CREATE USER|SUCCESS|Pantuflo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.555|EXPORT DATA|SUCCESS|Thor
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Robin|164.154.213.143
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.983|EXPORT DATA|SUCCESS|Zape
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.637|DELETE USER|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Robin|255.247.61.230
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.159|LOGIN|SUCCESS|Zipi
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.894|SEND EMAIL|SUCCESS|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.575|DOWNLOAD DOCUMENT|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Zape|1.122.13.39
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.562|SEND EMAIL|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.664|EXPORT DATA|FAILURE|Robin
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Mortadelo|17.139.146.37
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.451|LOGIN|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Invalid credentials. User will be flag as inactive|
+java.lang.Exception: Invalid credentials. User will be flag as inactive
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.289|CREATE USER|FAILURE|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.811|CREATE USER|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|Mortadelo|13.9.3.122
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.84|LOGIN|FAILURE|Filemon
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.454|DOWNLOAD DOCUMENT|FAILURE|Conan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|500|Sacarino|130.160.4.193
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.737|SEND EMAIL|SUCCESS|Zape
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.667|SEND EMAIL|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.58|DOWNLOAD DOCUMENT|FAILURE|SuperLopez
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Zape|93.87.187.49
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.76|CREATE USER|FAILURE|Rompetechos
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.563|CREATE USER|FAILURE|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|Flash|28.18.3.93
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.329|CREATE USER|FAILURE|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - User can not be null. Can not fetch information from the database|
+java.lang.Exception: User can not be null. Can not fetch information from the database
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.911|EXPORT DATA|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.714|LOGIN|SUCCESS|Robin
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Robin|233.31.214.132
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.828|DOWNLOAD DOCUMENT|FAILURE|Rompetechos
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.514|DELETE USER|SUCCESS|Flash
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Mortadelo|11.33.50.35
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.732|SEND EMAIL|FAILURE|Zape
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.774|EXPORT DATA|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.747|SEND EMAIL|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|500|Flash|25.85.116.203
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.8|DELETE USER|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.64|LOGIN|SUCCESS|Pantuflo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Flash|168.50.77.25
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.028|LOGIN|SUCCESS|Conan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Error connecting to database|
+java.lang.Exception: Error connecting to database
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.204|DOWNLOAD DOCUMENT|FAILURE|Zape
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.17|SEND EMAIL|FAILURE|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Sacarino|26.37.77.48
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.943|LOGIN|FAILURE|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.872|SEND EMAIL|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|500|Zape|186.166.61.147
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.099|DOWNLOAD DOCUMENT|FAILURE|Flash
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.73|DOWNLOAD DOCUMENT|FAILURE|SuperLopez
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.098|SEND EMAIL|SUCCESS|Rompetechos
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|Mortadelo|21.167.135.112
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.459|SEND EMAIL|SUCCESS|Conan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.653|CREATE USER|FAILURE|Conan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|Conan|250.128.247.103
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.307|EXPORT DATA|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Number expected|
+java.lang.Exception: Number expected
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.221|DOWNLOAD DOCUMENT|SUCCESS|Bacterio
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.844|LOGIN|FAILURE|Rompetechos
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Carpanta|166.96.27.22
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.954|CREATE USER|FAILURE|Zipi
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.53|SEND EMAIL|FAILURE|Thor
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|100|Batman|238.111.60.140
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.065|LOGIN|SUCCESS|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.594|CREATE USER|FAILURE|Robin
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.59|EXPORT DATA|FAILURE|IronMan
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|SuperLopez|215.182.203.237
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.0|SEND EMAIL|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.795|EXPORT DATA|FAILURE|Rompetechos
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Carpanta|105.235.192.137
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.673|SEND EMAIL|SUCCESS|IronFish
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - User not found|
+java.lang.Exception: User not found
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.333|DOWNLOAD DOCUMENT|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:41 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.597|DOWNLOAD DOCUMENT|SUCCESS|Mortadelo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Batman|9.122.91.148
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.81|LOGIN|FAILURE|Zipi
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.376|EXPORT DATA|FAILURE|IronFish
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|100|Conan|6.225.72.201
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.351|DELETE USER|FAILURE|Sacarino
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.314|CREATE USER|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.039|DELETE USER|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Filemon|55.172.255.209
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.431|CREATE USER|FAILURE|Batman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.496|CREATE USER|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Carpanta|235.233.65.19
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.299|SEND EMAIL|FAILURE|Carpanta
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Form can not be validated due to some database issue|
+java.lang.Exception: Form can not be validated due to some database issue
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.265|EXPORT DATA|FAILURE|IronFish
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.239|EXPORT DATA|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|Thor|191.45.136.226
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.58|SEND EMAIL|FAILURE|Zipi
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.083|EXPORT DATA|SUCCESS|IronFish
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Mortadelo|63.78.119.34
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.702|EXPORT DATA|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.575|CREATE USER|FAILURE|Flash
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.392|SEND EMAIL|FAILURE|Rompetechos
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|500|Superman|112.67.105.27
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.675|DOWNLOAD DOCUMENT|FAILURE|Pantuflo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.908|EXPORT DATA|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Conan|193.11.144.3
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.036|SEND EMAIL|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Email error: can not connect to SMTP Server|
+java.lang.Exception: Email error: can not connect to SMTP Server
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.723|LOGIN|FAILURE|Robin
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.474|CREATE USER|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|250|SuperLopez|253.65.92.18
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.924|LOGIN|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.591|CREATE USER|SUCCESS|Zape
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Superman|255.42.59.116
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.793|LOGIN|SUCCESS|IronFish
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.557|LOGIN|FAILURE|Carpanta
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.44|DOWNLOAD DOCUMENT|SUCCESS|IronFish
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|100|Pantuflo|160.113.196.174
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.854|SEND EMAIL|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.552|DOWNLOAD DOCUMENT|FAILURE|Superman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|IronFish|20.126.138.196
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.654|EXPORT DATA|FAILURE|Carpanta
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Document not found|
+java.lang.Exception: Document not found
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.17|LOGIN|SUCCESS|Flash
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.093|LOGIN|FAILURE|Conan
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|500|Mortadelo|94.14.148.54
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.893|CREATE USER|SUCCESS|Flash
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.818|DOWNLOAD DOCUMENT|FAILURE|Filemon
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Conan|203.54.177.99
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.377|DOWNLOAD DOCUMENT|SUCCESS|Zape
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.989|DELETE USER|SUCCESS|Zipi
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.33|LOGIN|FAILURE|Thor
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Conan|72.173.40.52
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.955|EXPORT DATA|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.443|DELETE USER|SUCCESS|SuperLopez
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|SuperLopez|212.237.60.9
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.808|CREATE USER|FAILURE|Conan
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Document not found|
+java.lang.Exception: Document not found
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.153|DOWNLOAD DOCUMENT|SUCCESS|Rompetechos
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.064|CREATE USER|SUCCESS|Rompetechos
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Rompetechos|231.241.162.81
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.045|SEND EMAIL|FAILURE|IronMan
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.99|DOWNLOAD DOCUMENT|FAILURE|Flash
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Carpanta|169.174.91.58
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.372|DOWNLOAD DOCUMENT|FAILURE|Batman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.788|SEND EMAIL|FAILURE|Flash
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.351|DELETE USER|SUCCESS|Batman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|400|Carpanta|130.235.231.225
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.988|CREATE USER|FAILURE|Pantuflo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.427|DELETE USER|SUCCESS|Zipi
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Thor|193.34.154.241
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.605|SEND EMAIL|FAILURE|Batman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Form can not be validated due to some database issue|
+java.lang.Exception: Form can not be validated due to some database issue
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.101|CREATE USER|FAILURE|Robin
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.145|LOGIN|FAILURE|Mortadelo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|204|Bacterio|213.62.92.219
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.395|EXPORT DATA|SUCCESS|Zape
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.302|CREATE USER|SUCCESS|Mortadelo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|100|Robin|201.35.75.238
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.387|SEND EMAIL|FAILURE|Conan
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.378|DOWNLOAD DOCUMENT|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.13|CREATE USER|SUCCESS|Filemon
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Rompetechos|233.66.216.252
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.776|CREATE USER|FAILURE|Zape
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.011|SEND EMAIL|FAILURE|Batman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|100|Thor|0.24.215.7
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.121|CREATE USER|SUCCESS|Thor
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Email error: can not connect to SMTP Server|
+java.lang.Exception: Email error: can not connect to SMTP Server
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.413|LOGIN|SUCCESS|SuperLopez
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.829|DOWNLOAD DOCUMENT|FAILURE|Bacterio
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|500|Pantuflo|103.135.12.69
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|2.503|DOWNLOAD DOCUMENT|SUCCESS|Mortadelo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.024|DOWNLOAD DOCUMENT|SUCCESS|Mortadelo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|200|Robin|154.34.189.121
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.679|CREATE USER|FAILURE|Pantuflo
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|4.94|DELETE USER|FAILURE|Zipi
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.539|SEND EMAIL|SUCCESS|IronFish
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Flash|116.33.228.254
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.13|SEND EMAIL|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.531|DOWNLOAD DOCUMENT|SUCCESS|Filemon
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|500|Rompetechos|171.57.195.4
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.252|DOWNLOAD DOCUMENT|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Invalid credentials. User will be flag as inactive|
+java.lang.Exception: Invalid credentials. User will be flag as inactive
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.86|SEND EMAIL|FAILURE|Robin
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.999|DOWNLOAD DOCUMENT|FAILURE|Batman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|150|Conan|164.138.145.65
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.862|DOWNLOAD DOCUMENT|FAILURE|Carpanta
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|1.655|EXPORT DATA|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|202|Batman|16.195.158.252
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.386|SEND EMAIL|SUCCESS|Robin
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|5.337|DELETE USER|FAILURE|Carpanta
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|7.555|DOWNLOAD DOCUMENT|FAILURE|IronFish
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|201|Zipi|47.42.62.90
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|3.851|SEND EMAIL|FAILURE|Rompetechos
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|6.652|SEND EMAIL|SUCCESS|Sacarino
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Login Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - LOGIN|404|Mortadelo|39.212.225.8
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Performance Trace
+INFO 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - PERFORMANCE|0.384|SEND EMAIL|SUCCESS|Superman
+DEBUG 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Creating Error Trace
+ERROR 2022-02-07 16:29:42 [main] a.b.t.loggenerator.LogGenerator - Invalid credentials. User will be flag as inactive|
+java.lang.Exception: Invalid credentials. User will be flag as inactive
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateExceptionTrace(LogGenerator.kt:66)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.generateTraces(LogGenerator.kt:31)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt:17)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt$main$1.invoke(LogGenerator.kt)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody(SystemExitException.kt:74)
+	at com.xenomachina.argparser.SystemExitExceptionKt.mainBody$default(SystemExitException.kt:72)
+	at am.ballesteros.training.loggenerator.LogGeneratorKt.main(LogGenerator.kt:14)
