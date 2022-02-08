@@ -54,7 +54,12 @@ services:
       - elk
     depends_on:
       - elasticsearch
-
+  cerebro: 
+    image: lmenezes/cerebro   
+    ports:
+      - "9000:9000"
+    networks:
+      - elk      
 networks:
   elk:
     driver: bridge

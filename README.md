@@ -11,6 +11,21 @@ Una o varias maquinas con Logstash a cuales les llegan los logs para procesarlos
 Un cluser de Elastisearch con distintos nodos para almacer y responder  a las consultas que se le hagan
 Una o varias maquinas con kibana 
 
+  - TIPOS DE BEATS
+    Auditbeat: para llevar registro y control de los eventos del kernel Linux, así como las modificaciones a los ficheros. Es capaz de retener los mensajes que no ha enviado en caso de no haber conexión con nuestro servidor ElasticSearch. Esta característica acompaña también a los demás productos de esta lista.
+    Filebeat: a pesar de su nombre no se refiere a ficheros normales, sino a los registros o logs. Viene preparado para detectar y enviar lo relacionado con auditd, Apache, NGINX, System, MySQL y otros más, ya sea en máquinas reales o en contenedores como Docker. Tiene la opción de enviarlos, ya sea a ElasticSearch y/o Logstash, a los cuales aludimos al principio.
+
+    Heartbeat: para saber si están en línea por medio de ping, pero en un concepto ampliado, no solo ICMP sino también TCP, y HTTP o TLS. También puede autenticar y pasar por cualquier proxy. Sí, en sentido estricto de la definición -que todos y todas conocemos- eso no es un servicio ping, pero lo bueno del software libre es que lo podemos programar como nosotros lo necesitemos. Entrega a ElasticSearch y/o Logstash.
+
+    MetricBeat: Ya en otra oportunidad hablamos sobre las métricas que realmente importan y sabemos que son variopintas. Por ello, Metricbeat se encargará de recogerlas para nosotros por medio de dos componentes: los módulos («modules») y los juegos de métricas («metricsets»).
+
+    Los módulos especifican el servicio sobre el cual se va a recolectar la métrica, cómo conectar a ese servicio y cada cuánto tiempo hacer la consulta. Como cada servicio puede devolver muchos valores, Metricbeat los agrupa en un juego de métricas en formato normalizado antes de enviarlos. Aun cuando no reciba una respuesta efectiva tras varios intentos, Metricbeat siempre nos devolverá un informe indicando el fallo.
+
+    Metricbeat entregará todos los datos recogidos a nuestro servidor, el cual habremos instalado con la orden «sudo apt-get install elasticsearch logstash kibana» (en el caso de Debian y similares). Nótese que deberemos instalar también Kibana, una herramienta para graficar la información procesada, y es el equivalente a la consola de Pandora FMS.
+
+    Packetbeat: también trabaja con ElasticSearch y/o Logstash y se encarga de capturar el tráfico de nuestra red, determinar el protocolo utilizado y relacionar solicitudes y respuestas, para luego extraer campos tales como tiempo y estado, para agruparlos en formato adecuado antes de enviarlos. Funciona además como librería, así que nuestros programas en lenguaje Go tendrán una excelente herramienta o podremos crear nuestros propios detectores de protocolos (ya tiene integrado para detectar el tráfico de bases de datos como MySQL, PostgreSQL , MongoDB y más).
+    Winlogbeat: es análogo a Filebeat, pero aplicado única y exclusivamente a todos los eventos del sistema operativo Windows®.
+
 
 docker run -d^
   --name=metricbeat^
