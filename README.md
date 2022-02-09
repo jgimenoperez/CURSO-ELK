@@ -58,3 +58,7 @@ Respecto a tu primera pregunta, sí que es posible activar este tipo de segurida
 En cuanto a tu segunda pregunta, te dejo un enlace con lo que permite Kibana. Como en el caso anterior, algunas de estas funcionalidades requerirán licencia de pago: https://www.elastic.co/guide/en/kibana/7.6/kibana-privileges.html#kibana-feature-privileges
 
 Un saludo, Alberto.
+
+
+--TOOL LOG GENERATOR
+java -jar log-generator-1.0.jar -l -20 d 10
