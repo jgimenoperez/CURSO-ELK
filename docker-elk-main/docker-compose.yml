@@ -66,6 +66,22 @@ services:
       - "8080:8080"
     networks:
       - elk         
+
+  mysql:
+    image: mariadb
+    container_name: maria_elk
+    ports:
+        - "3306:3306" 
+    environment:
+        MYSQL_ROOT_PASSWORD: root   
+        MYSQL_USER: chan
+        MYSQL_PASSWORD: 961421180   
+        MYSQL_DATABASE: appsalon
+    volumes:
+      - C:\DEVLAB\BBDD\mariadb:/var/lib/mysql              
+    networks:
+      - elk    
+
 networks:
   elk:
     driver: bridge
