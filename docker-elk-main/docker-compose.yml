@@ -29,6 +29,7 @@ services:
     volumes:
       - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml:ro,z
       - ./logstash/pipeline:/usr/share/logstash/pipeline:ro,z
+      # - ./logstash/jdbc/mysql-connector-java-8.0.22.jar:/usr/share/logstash/mysql-connector-java-8.0.22.jar:ro,z
     ports:
       - "5044:5044"
       - "5000:5000/tcp"
