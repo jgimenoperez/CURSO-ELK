@@ -1,0 +1,28 @@
+This program has encountered a fatal error and cannot continue running at Sat Feb 12 06:07:40 2022
+The following diagnostic information is available:
+
+         Reason: 0x00000006
+        Message: Termination of \SystemRoot\system32\AppLoader.exe was due to fatal error 0xC0000001
+        Address: 0x6b255df4
+    Stack Trace:
+                 file://package4/windows/system32/sqlpal.dll+0x000000000033D157
+                 file://package4/windows/system32/sqlpal.dll+0x000000000033B478
+                 file://package4/windows/system32/sqlpal.dll+0x0000000000255CC8
+                 file://package4/windows/system32/sqlpal.dll+0x0000000000255DF4
+                 file://package4/windows/system32/sqlpal.dll+0x0000000000255332
+                 file://package4/windows/system32/sqlpal.dll+0x000000000025540B
+                 file://package4/windows/system32/sqlpal.dll+0x0000000000203233
+                 file://package4/windows/system32/sqlpal.dll+0x000000000037BBB8
+                 file:///windows/system32/AppLoader.exe+0x0000000000003C90
+                 file:///Windows/SYSTEM32/KERNEL32.DLL+0x0000000000013424
+                 file:///windows/system32/ntdll.dll+0x0000000000073411
+                 <unknown>+0x00000000A7B51200
+        Process: 8 - sqlservr
+         Thread: 33 (application thread 0x58)
+    Instance Id: 3f7af5e3-ded0-476d-955b-0eda00bd7722
+       Crash Id: c89e8136-78d2-4fc3-b48b-85b4b8fa4b22
+    Build stamp: 59a7b2bafecca31031d83f2a056e92c3b8ecb76e2d9b1e82cbe6ca0252cc58b8
+   Distribution: Ubuntu 18.04.4 LTS
+     Processors: 1
+   Total Memory: 10443653120 bytes
+      Timestamp: Sat Feb 12 06:07:40 2022

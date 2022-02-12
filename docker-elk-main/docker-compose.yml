@@ -69,7 +69,7 @@ services:
 
   mysql:
     image: mariadb
-    container_name: maria_elk
+    container_name: maria_elastic
     ports:
         - "3306:3306" 
     environment:
@@ -82,9 +82,25 @@ services:
     networks:
       - elk    
 
+  sqlserver:
+  # https://hub.docker.com/_/microsoft-mssql-server
+    image: mcr.microsoft.com/mssql/server:2019-CU15-ubuntu-20.04
+    user: '0:0'
+    container_name: sqlserver2019
+    ports:
+      - 1433:1433
+    environment:
+      ACCEPT_EULA: Y
+      SA_PASSWORD: 44795240Aa
+      MSSQL_PID: Express
+    volumes:
+      - C:\DEVLAB\BBDD\mssql:/var/opt/mssql/data 
+    networks:
+      - elk      
 networks:
   elk:
     driver: bridge
 
 volumes:
   elasticsearch:
+
