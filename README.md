@@ -62,3 +62,13 @@ Un saludo, Alberto.
 
 --TOOL LOG GENERATOR
 java -jar log-generator-1.0.jar -l -20 d 10
+
+--MONTAR DOCKER COMPOSE SQL SERVER EN LINUX
+  https://aspnetcoremaster.com/slqserver/docker-compose-para-sql-server.html
+
+
+--Diferentes videos sobre logstash
+https://www.youtube.com/watch?v=_x26AMwAetQ  
+
+--Cómo mantener Elasticsearch sincronizado con una base de datos relacional usando Logstash y JDBC
+  https://www.elastic.co/es/blog/how-to-keep-elasticsearch-synchronized-with-a-relational-database-using-logstash
